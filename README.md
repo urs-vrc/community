@@ -12,7 +12,7 @@ community, care must be taken to ensure any changes you submitted have at least 
 * You have provided ample rationale in these channels, with the rationale well-defined in your PR
 * You have been a member of the community for at least thirty (30) days prior to the change*
 
--# *Exceptions to these rules are community members that transferred over from
+*Exceptions to this rule are community members that transferred over from
 the legacy Umamusume Racing Association (URA) group.
 
 ## Copyright
