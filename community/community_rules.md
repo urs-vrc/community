@@ -24,3 +24,5 @@ In addition to acceptable behavior set to standard by the [Code of Conduct](../C
 * Alting and Impersonation of URS Staff
   - Malicious usage of alternate accounts in order to mislead staff, evade punishment, bypass the URS Community Conduct and its supplemental rules, or intentionally harass other members will be subject to any punishment as determined by URS Staff.
 
+* No Generative AI content in any official spaces
+  - Any use of generative AI through image/media format is strictly prohibited. AI voice changers are allowed, but those that are trained on the Umamusume characters’ voices are prohibited.
