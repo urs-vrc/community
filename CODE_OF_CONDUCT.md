@@ -41,7 +41,7 @@ People are complicated. You should expect to be misunderstood and to misundersta
 
 ### Our Pledge
 
-In the interest of fostering an open and welcoming environment, we as contributors and maintainers pledge to making participation in our community a harassment-free experience for everyone, regardless of age, body size, disability, ethnicity, gender identity and expression, level of experience, education, socio-economic status, nationality, personal appearance, race, religion, or sexual identity and orientation.
+In the interest of fostering an open and welcoming environment, we as community members pledge to making participation in our community a harassment-free experience for everyone, regardless of age, body size, disability, ethnicity, gender identity and expression, level of experience, education, socio-economic status, nationality, personal appearance, race, religion, or sexual identity and orientation.
 
 ### Our Standards
 Examples of behavior that contributes to creating a positive environment include:
@@ -80,7 +80,7 @@ If you see someone violating the code of conduct, you are encouraged to address 
 
 Reports should be directed to the Umamusume Racing Society Staff via the Ticket System at Discord. It is the Staff’s duty to receive and address reported violations of the code of conduct. They will then work with a committee consisting of representatives from the Community Management team and the Competitive Integrity team (if an issue relates to their behavior during competitive events). If for any reason you are uncomfortable reaching out to the Staff, please inform the Lead Staffs at Discord or Ayase Minori at their Discord or their email ayane@duck.com.
 
-We will investigate every complaint, but you may not receive a direct response. We will use our discretion in determining when and how to follow up on reported incidents, which may range from not taking action to permanent expulsion from the community and related spaces. We will notify the accused of the report and provide them an opportunity to discuss it before any action is taken. The identity of the reporter will be omitted from the details of the report supplied to the accused. In potentially harmful situations, such as ongoing harassment or threats to anyone’s safety, we may take action without notice.
+We will investigate every complaint, but you may not receive a direct response. We will use our discretion in determining when and how to follow up on reported incidents, which may range from not taking action to permanent expulsion from the community and related spaces. We will notify the accused of the report and provide them an opportunity to discuss it before any action is taken. The identity of the reporter will be omitted from the details of the report supplied to the accused. In potentially harmful situations, such as ongoing harassment or threats to anyone’s safety, we may take action without notice. Furthermore, if a report is directed towards a URS-affiliated team, the staff reserves the right to conduct a complete audit of your official community spaces, and the representative of the reported affiliated team must comply and give elevated permissions to the staff the conduct their audit.
 
 ### Attribution
 This Code of Conduct is adapted from the Contributor Covenant, version 1.4, available at https://www.contributor-covenant.org/version/1/4/code-of-conduct.html
