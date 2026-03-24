@@ -1,6 +1,6 @@
 # The Umamusume Racing Society Code of Conduct
 
-*Last Edited: March 21, 2026*
+*Last Edited: March 23, 2026*
 
 Online communities include people from many different backgrounds. The Umamusume Racing Society (URS) are committed to providing a friendly, safe and welcoming environment for all, regardless of gender identity and expression, sexual orientation, disabilities, neurodiversity, physical appearance, body size, ethnicity, nationality, race, age, religion, or similar personal characteristics.
 
@@ -66,6 +66,8 @@ We, the Staff, are responsible for clarifying the standards of acceptable behavi
 
 We, The Staff, have the right and responsibility to remove, edit, or reject comments, submissions, issues, and other contributions that are not aligned to this Code of Conduct, or to ban temporarily or permanently any community members for other behaviors that they deem inappropriate, threatening, offensive, or harmful.
 
+We, The Staff, also has the responsibility, on some major cases, to maintain a transparency log of community restrictions, as well as providing a postmortem report of the investigation while omitting any private and confidential information within 56-72 hours of the action, when necessary.
+
 ### Scope
 
 This Code of Conduct applies both within official community spaces and in public spaces when an individual is representing the community. Examples of representing a community include using an affiliated team's banner, the URS banner, posting via an official social media account or an affiliated team's social media account, or acting as an appointed representative at an online or offline event. Representation of the community may be further defined and clarified by The Staff.
@@ -80,7 +82,7 @@ If you see someone violating the code of conduct, you are encouraged to address 
 
 Reports should be directed to the Umamusume Racing Society Staff via the Ticket System at Discord. It is the Staff’s duty to receive and address reported violations of the code of conduct. They will then work with a committee consisting of representatives from the Community Management team and the Competitive Integrity team (if an issue relates to their behavior during competitive events). If for any reason you are uncomfortable reaching out to the Staff, please inform the Lead Staffs at Discord or Ayase Minori at their Discord or their email ayane@duck.com.
 
-We will investigate every complaint, but you may not receive a direct response. We will use our discretion in determining when and how to follow up on reported incidents, which may range from not taking action to permanent expulsion from the community and related spaces. We will notify the accused of the report and provide them an opportunity to discuss it before any action is taken. The identity of the reporter will be omitted from the details of the report supplied to the accused. In potentially harmful situations, such as ongoing harassment or threats to anyone’s safety, we may take action without notice. Furthermore, if a report is directed towards a URS-affiliated team, the staff reserves the right to conduct a complete audit of your official community spaces, and the representative of the reported affiliated team must comply and give elevated permissions to the staff the conduct their audit.
+We will investigate every complaint, but you may not receive a direct response. We will use our discretion in determining when and how to follow up on reported incidents, which may range from not taking action to permanent expulsion from the community and related spaces. We will notify the accused of the report and provide them an opportunity to discuss it before any action is taken. The identity of the reporter will be omitted from the details of the report supplied to the accused. In potentially harmful situations, such as ongoing harassment or threats to anyone’s safety, we may take action without notice. Furthermore, if a report is directed towards a URS-affiliated team, The Staff reserves the right to conduct a complete audit of your official community spaces, and the representative of the reported affiliated team must comply and give elevated permissions to The Staff the conduct their audit.
 
 ### Attribution
 This Code of Conduct is adapted from the Contributor Covenant, version 1.4, available at https://www.contributor-covenant.org/version/1/4/code-of-conduct.html
