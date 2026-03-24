@@ -14,7 +14,7 @@ Unsportsmanlike conduct on the course will not be tolerated.
 - Teaming up during open races is allowed, but targeting a single racer to ruin their experience is not tolerated
 - Comments intended to harm, anger, or shame others before, during, or after a race will not be tolerated
 
-## URA Solo Racing Event Guidelines
+## URS Solo Racing Event Guidelines
 
 - Sign up via the Google Form posted in `#official-ura-events`
 - Sign-ups close at least **8 days** before the event
@@ -24,9 +24,9 @@ Unsportsmanlike conduct on the course will not be tolerated.
 - Stable internet is required — staff may penalize poor connection issues
 - Racing takes place in a private “racing instance” — only staff and scheduled racers allowed
 - Racers must leave the instance after their race if not scheduled for the next one
-- Add the **URA Host** account and request an invite to join
+- Add the **URS Host** account and request an invite to join
 
-## URA Team Racing Event Guidelines
+## URS Team Racing Event Guidelines
 
 - One captain per team fills out the Google Form in `#official-ura-events`
 - Sign-ups close at least **8 days** before the event
@@ -43,7 +43,7 @@ A "Team" in the URS defines a organisation or union of community members intendi
 
 - A team must exist for at least **14 days** before becoming eligible to register
 - Minimum of **5 members** required (no maximum, but must be manageable)
-- Banned or restricted users are **not allowed** on any URA-registered team
+- Banned or restricted users are **not allowed** on any URS-registered team
 - If a banned member is found, the team has **24 hours** to remove them.
 - Team logos must **not** be AI-generated or contain AI elements.
 
@@ -55,14 +55,14 @@ A "Team" in the URS defines a organisation or union of community members intendi
 - Notify staff in advance in your team’s text channel
 - Failure to host at least **4 open sessions over 2 months** = team considered inactive and subject to removal
 
-**Open Training**: Hosted on URA-developed racecourse worlds (e.g. Kyoto Racecourse)
+**Open Training**: Hosted on URS-developed racecourse worlds (e.g. Kyoto Racecourse)
 **Open Recreation**: Hosted on any SFW (PG-13) world
 
 ### Team Member Requirements
 
 - All members must be of good character and follows the [Code of Conduct](../CODE_OF_CONDUCT.md) and [URS Community Supplemental Rules](../community/community_rules.md).
 - Roster changes (add/remove/swap) must be reported to staff within **72 hours**
-- A person can only belong to **one** URA-registered team at a time
+- A person can only belong to **one** URS-registered team at a time
 
 ### Paperwork for Team Registration
 
