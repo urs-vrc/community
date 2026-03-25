@@ -29,4 +29,4 @@ In addition to acceptable behavior set to standard by the [Code of Conduct](../C
 
 ###  Rules on sharing Fan-created artworks
 
-URS cares about the fan-made artworks and the effort that took to make them. When sharing any fan-made content, ensure you provide the **original source** to help these creators. Special exceptions to these rules are commissioned artworks and/or self-made artworks however for commissioned artworks, please share the creator's profile.
+URS cares about the fan-made artworks and the effort that took to make them. When sharing any fan-made content, ensure you provide the **original source** to help these creators. Special exceptions to these rules are commissioned artworks and/or self-made artworks. For commissioned artworks, please share the creator's profile.
