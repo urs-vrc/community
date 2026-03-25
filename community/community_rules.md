@@ -26,3 +26,7 @@ In addition to acceptable behavior set to standard by the [Code of Conduct](../C
 
 * No Generative AI content in any official spaces
   - Any use of generative AI through image/media format is strictly prohibited. AI voice changers are allowed, but those that are trained on the Umamusume characters’ voices are prohibited.
+
+###  Rules on sharing Fan-created artworks
+
+URS cares about the fan-made artworks and the effort that took to make them. When sharing any fan-made content, ensure you provide the **original source** to help these creators. Special exceptions to these rules are commissioned artworks and/or self-made artworks however for commissioned artworks, please share the creator's profile.
