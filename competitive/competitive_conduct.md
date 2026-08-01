@@ -28,7 +28,12 @@ Unsportsmanlike conduct on the course will not be tolerated.
 
 ## URS Team Racing Event Guidelines
 
-- One captain per team fills out the Google Form in `#official-ura-events`
+> **NOTE**
+>
+> The URS is in the process of moving its operations to Project Lightwing. 
+> Parts of this conduct may no longer apply.
+
+- One captain per team fills out the Google Form in `#event-announcements`
 - Sign-ups close at least **8 days** before the event
 - Substitutions/ringers must be approved by staff and communicated in `#captain-chat` at least **9 days** before the event
 - Check-ins last 30 minutes — failure to check in = significant penalty on the team’s best race
@@ -56,17 +61,22 @@ A "Team" in the URS defines a organisation or union of community members intendi
 - Failure to host at least **4 open sessions over 2 months** = team considered inactive and subject to removal
 
 **Open Training**: Hosted on URS-developed racecourse worlds (e.g. Kyoto Racecourse)
-**Open Recreation**: Hosted on any SFW (PG-13) world
+**Open Recreation**: Hosted on any SFW (PG-15+) world
 
 ### Team Member Requirements
 
 - All members must be of good character and follows the [Code of Conduct](../CODE_OF_CONDUCT.md) and [URS Community Supplemental Rules](../community/community_rules.md).
-- Roster changes (add/remove/swap) must be reported to staff within **72 hours**
-- A person can only belong to **one** URS-registered team at a time
+- Roster changes (add/remove/swap) must be reported to staff within **72 hours**.
+- A person can only belong to **one** URS-registered team at a time.
 
 ### Paperwork for Team Registration
 
-1. Register for the team via our `#team-registration` channel.
+> **NOTE**
+>
+> The URS is in the process of moving its operations to Project Lightwing. 
+> Parts of this conduct may no longer apply.
+
+1. Register for the team using **Brightling** via the `/teamdb register` command.
 2. Your team will be officially registered after staff review (usually 1–2 weeks)
 
 
@@ -86,7 +96,7 @@ Once registered, please fill out the following in your team channel:
 
 ### Post-Registration Updates to Team
 
-- Major changes (disbanding, adding/removing leaders, etc.) require **majority approval** (>50%) from leaders
+- Major changes (disbanding, adding/removing leaders, etc.) require **majority approval** (>50%) from leaders or whatever remains of the team.
 - Non-member changes (name, role color, etc.) must be reported by a captain/leader in `#captain-chat`
 - Important updates will be posted in `#announcements` — it is your responsibility to stay updated
 - Questions? Do not be afraid to hesitate to ask on Discord or in `#help`.
