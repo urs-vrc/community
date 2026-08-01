@@ -46,7 +46,7 @@ A "Team" in the URS defines a organisation or union of community members intendi
 
 ### Team Registration Requirements
 
-- A team must exist for at least **14 days** before becoming eligible to register
+- A team must exist for at least **7 days** before becoming eligible to register
 - Minimum of **5 members** required (no maximum, but must be manageable)
 - Banned or restricted users are **not allowed** on any URS-registered team
 - If a banned member is found, the team has **24 hours** to remove them.
@@ -96,7 +96,7 @@ Once registered, please fill out the following in your team channel:
 
 ### Post-Registration Updates to Team
 
-- Major changes (disbanding, adding/removing leaders, etc.) require **majority approval** (>50%) from leaders or whatever remains of the team.
+- Major changes (disbanding, adding/removing leaders, etc.) require **majority approval** (>50%) from leaders.
 - Non-member changes (name, role color, etc.) must be reported by a captain/leader in `#captain-chat`
 - Important updates will be posted in `#announcements` — it is your responsibility to stay updated
 - Questions? Do not be afraid to hesitate to ask on Discord or in `#help`.
