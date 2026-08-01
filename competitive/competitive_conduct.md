@@ -7,24 +7,32 @@ The Umamusume Racing Society (URS) Competitive Conduct governs members' conduct 
 
 ## Sportsmanship
 
-Unsportsmanlike conduct on the course will not be tolerated.
+Unsportsmanlike conduct on the course will not be tolerated, however some certain exceptions apply:
 
-- Debuffs are allowed (they are part of the game’s skills)
-- Blocking is allowed, but **excessive intentional blocking** (e.g. mirror blocking) is strongly discouraged
-- Teaming up during open races is allowed, but targeting a single racer to ruin their experience is not tolerated
-- Comments intended to harm, anger, or shame others before, during, or after a race will not be tolerated
+- Debuffs are allowed (they are part of the game’s skills).
+- Blocking is allowed, but **excessive intentional blocking** (e.g. mirror blocking) is strongly discouraged.
+- Teaming up during open races is allowed, but targeting a single racer to ruin their experience is not tolerated.
+
+However, the following actions are unconditionally not tolerated:
+
+- Comments intended to harm, anger, or shame others before, during, or after a race will not be tolerated.
 
 ## URS Solo Racing Event Guidelines
 
-- Sign up via the Google Form posted in `#official-ura-events`
-- Sign-ups close at least **8 days** before the event
-- Race schedules are posted at least **7 days** before the event
-- Check-ins last 30 minutes from event start — failure to check in = disqualification
-- Races are **one-and-done** (no do-overs)
-- Stable internet is required — staff may penalize poor connection issues
-- Racing takes place in a private “racing instance” — only staff and scheduled racers allowed
-- Racers must leave the instance after their race if not scheduled for the next one
-- Add the **URS Host** account and request an invite to join
+> **NOTE**
+>
+> The URS is in the process of moving its operations to Project Lightwing. 
+> Parts of this conduct may no longer apply.
+
+- Sign-ups are through the official URS Competitive Portal Website.
+- Sign-ups close at least **8 days** before the event.
+- Race schedules are posted at least **7 days** before the event.
+- Check-ins last 30 minutes from event start — failure to check in = disqualification.
+- Races are **one-and-done** (no do-overs).
+- Stable internet is required — staff may penalize poor connection issues.
+- Racing takes place in a private “racing instance” — only staff and scheduled racers allowed.
+- Racers must leave the instance after their race if not scheduled for the next one.
+- Add the **URS Host** account (Sunday Silence or Yukino Bijin) and request an invite to join.
 
 ## URS Team Racing Event Guidelines
 
@@ -77,7 +85,7 @@ A "Team" in the URS defines a organisation or union of community members intendi
 > Parts of this conduct may no longer apply.
 
 1. Register for the team using **Brightling** via the `/teamdb register` command.
-2. Your team will be officially registered after staff review (usually 1–2 weeks)
+2. Your team will be officially registered after staff review (usually 1–2 weeks).
 
 
 ### Post-Registration Team Information
