@@ -20,7 +20,7 @@ However, the following actions are unconditionally not tolerated:
 - Teaming.
 - Potential bugs / exploits.
 
-**Any breach of these rules can be met with the following punishment's as necessary**
+**Any breach of these rules can be met with the following punishments as necessary**
 
 -Point deduction
 -Placement Penalty
