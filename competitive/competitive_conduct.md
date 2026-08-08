@@ -22,11 +22,11 @@ However, the following actions are unconditionally not tolerated:
 
 **Any breach of these rules can be met with the following punishments as necessary**
 
--Point deduction
--Placement Penalty
--Race suspension
--Temporary or permanent event ban
--Removal of graded race licenses (All-Star Series Specific) 
+- Point deduction
+- Placement Penalty
+- Race suspension
+- Temporary or permanent event ban
+- Removal of graded race licenses (All-Star Series Specific) 
 
 ## URS Solo Racing Event Guidelines
 
