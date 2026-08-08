@@ -1,6 +1,6 @@
 # The Umamusume Racing Society (URS) Competitive Conduct
 
-*Last Edited: March 23, 2026*
+*Last Edited: August 8th, 2026*
 
 The Umamusume Racing Society (URS) Competitive Conduct governs members' conduct on competitive events as well as organisations that participate in said events. The competitive conduct is enforced alongside the [Code of Conduct](../CODE_OF_CONDUCT.md) during such events.
 
@@ -11,11 +11,22 @@ Unsportsmanlike conduct on the course will not be tolerated, however some certai
 
 - Debuffs are allowed (they are part of the game’s skills).
 - Blocking is allowed, but **excessive intentional blocking** (e.g. mirror blocking) is strongly discouraged.
-- Teaming up during open races is allowed, but targeting a single racer to ruin their experience is not tolerated.
 
 However, the following actions are unconditionally not tolerated:
 
 - Comments intended to harm, anger, or shame others before, during, or after a race will not be tolerated.
+- Griefing / Foulplay / Excessive blocking.
+- Cheating.
+- Teaming.
+- Potential bugs / exploits.
+
+**any breach of these rules can be met with the following punishment's as necessary**
+
+-Point deduction
+-Placement Penalty
+-Race suspension
+-Temporary or permanent event ban
+-Removal of graded race licenses (All-Star Series Specific) 
 
 ## URS Solo Racing Event Guidelines
 
@@ -25,14 +36,14 @@ However, the following actions are unconditionally not tolerated:
 > Parts of this conduct may no longer apply.
 
 - Sign-ups are through the official URS Competitive Portal Website.
-- Sign-ups close at least **8 days** before the event.
-- Race schedules are posted at least **7 days** before the event.
+- Sign-ups close at least **4 days** before the event.
+- Race schedules are posted at least **2 days** before the event.
 - Check-ins last 30 minutes from event start — failure to check in = disqualification.
 - Races are **one-and-done** (no do-overs).
 - Stable internet is required — staff may penalize poor connection issues.
 - Racing takes place in a private “racing instance” — only staff and scheduled racers allowed.
 - Racers must leave the instance after their race if not scheduled for the next one.
-- Add the **URS Host** account (Sunday Silence or Yukino Bijin) and request an invite to join.
+- Add the **URS Host** account (Mejiro Bright) and request an invite to join.
 
 ## URS Team Racing Event Guidelines
 
@@ -42,8 +53,8 @@ However, the following actions are unconditionally not tolerated:
 > Parts of this conduct may no longer apply.
 
 - One captain per team fills out the Google Form in `#event-announcements`
-- Sign-ups close at least **8 days** before the event
-- Substitutions/ringers must be approved by staff and communicated in `#captain-chat` at least **9 days** before the event
+- Sign-ups close at least **5 days** before the event
+- Substitutions/ringers must be approved by staff and communicated in `#captain-chat` at least **3 days** before the event
 - Check-ins last 30 minutes — failure to check in = significant penalty on the team’s best race
 - Teams may swap signed-up members freely during the event
 - All other rules (one-and-done, stable internet, private instance, etc.) are the same as solo events
