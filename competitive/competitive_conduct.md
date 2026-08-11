@@ -19,6 +19,7 @@ However, the following actions are unconditionally not tolerated:
 - Cheating.
 - Teaming.
 - Potential bugs / exploits.
+- Microphone /Soundboard /Audio Disruptions
 
 **Any breach of these rules can be met with the following punishments as necessary**
 
